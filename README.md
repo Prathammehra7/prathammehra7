@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://wallpapercave.com/dwp2x/wp2863977.gif" width="900" height="350"/>
+  <img src="https://wallpapercave.com/dwp2x/wp2863977.gif" width="800" height="350"/>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
